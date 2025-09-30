@@ -1,2 +1,2 @@
-# gambling
+# multiplayer-game-site
 gaming
